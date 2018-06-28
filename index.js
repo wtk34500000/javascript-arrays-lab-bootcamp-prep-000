@@ -1,5 +1,6 @@
 const app = "I don't do much."
 
+
 var kittens = ["Milo", "Otis", "Garfield"]
 
 function kittens()
@@ -49,3 +50,4 @@ function removeFirstKitten(name) {
   newArr.shift()
   return newArr
 }
+
